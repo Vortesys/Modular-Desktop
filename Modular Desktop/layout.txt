@@ -1,0 +1,12 @@
+/help/
+HTML Help source files.
+
+/lang/
+Language-specific resource string and dialog files.
+
+/resource/
+Icon, cursor and bitmap resources.
+
+-- Current Directory
+/layout.txt
+List of folders and files and their purposes.

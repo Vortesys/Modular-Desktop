@@ -11,8 +11,10 @@ Modular Desktop's source code, see "Modular Desktop/LAYOUT.txt"
 
 planning/
 Inspirational images and mockups should go in here.
+Excluded with .gitignore.
 
 -- Base Directory
 LAYOUT.txt - file structure diagram
 LICENSE.txt - license (MIT)
+Modular Desktop.sln - Visual Studio solution
 README.md - github's readme file
